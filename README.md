@@ -6,9 +6,9 @@ Interfaz de usuario responsiva y moderna construida con React, Vite, TypeScript 
 
 ## 🔗 Enlaces del Proyecto y Despliegue
 
-* **Aplicación en Producción (Frontend):** `[INSERTAR_AQUI_LINK_DE_VERCEL_O_PRODUCCION]`
 * **Repositorio Backend:** `https://github.com/Pebody-h/vm-management-backend.git`
-* **API Backend en Producción:** `[INSERTAR_AQUI_LINK_DE_RENDER_BACKEND]`
+* **Aplicación en Producción (Frontend):** `https://vm-management-frontend.vercel.app`
+* **API Backend en Producción:** `https://vm-management-backend.onrender.com`
 
 ---
 
