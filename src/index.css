@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-slate-950 text-slate-100 antialiased font-sans selection:bg-cyan-500 selection:text-white;
+}
+
+@keyframes pulseGlow {
+
+  0%,
+  100% {
+    box-shadow: 0 0 0 0 rgba(6, 182, 212, 0);
+  }
+
+  50% {
+    box-shadow: 0 0 25px 4px rgba(6, 182, 212, 0.6);
+  }
+}
+
+.animate-pulse-glow {
+  animation: pulseGlow 1.5s ease-in-out infinite;
+}
